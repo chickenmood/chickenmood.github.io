@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Learn, accumulate, refine, summarize, output, provide feedback, and adjust
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+lifelong learner.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](289249034@qq.com)
