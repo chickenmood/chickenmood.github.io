@@ -12,4 +12,4 @@ lifelong learner.
 
 ### Contact me
 
-[email@domain.com](289249034@qq.com)
+[289249034@qq.com](289249034@qq.com)
